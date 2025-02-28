@@ -2,6 +2,10 @@
 
 int main()
 {
-    std::cout << "Hello World!";
+    int a = 10;
+    for (int i = 0; i < a; i++)
+    {
+        std::cout <<"Hello, World!\n";
+    }
     return 0;
 }
