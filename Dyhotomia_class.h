@@ -20,14 +20,3 @@ int main()
     delete solver;
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
